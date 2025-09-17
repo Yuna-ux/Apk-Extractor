@@ -104,7 +104,7 @@ SOFTWARE.
 · Sketchware Pro team for the amazing IDE
 · All contributors and testers
 · Open source community for inspiration
-
+    https://sketchware.pro/
 ---
 
 <p align="center">
