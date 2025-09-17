@@ -36,7 +36,7 @@ How to Use
 · Language: Java
 · Min SDK: Android 5.0 (API 21)
 · Architecture: Clean Architecture
-· Build Tool: SketchWare Pro
+· Build Tool: Sketchware Pro Nightly V7.0.0 SNAPSHOT
 
 📋 Permissions
 
