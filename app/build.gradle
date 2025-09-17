@@ -8,12 +8,12 @@ android {
 	useLibrary 'org.apache.http.legacy'
 	
 	defaultConfig {
-		applicationId "com.m.library.test"
-		namespace "com.m.library.test"
+		applicationId "com.m.apk.extractor.skech"
+		namespace "com.m.apk.extractor.skech"
 		minSdkVersion 21
 		targetSdkVersion 34
 		versionCode 1
-		versionName "1.0"
+		versionName "1.4"
 	}
 	
 	buildTypes {
