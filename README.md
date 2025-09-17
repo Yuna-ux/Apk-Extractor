@@ -20,7 +20,7 @@ A simple, open source, and lightweight Android application to extract APK files 
 
 📥 Download
 
-https://img.shields.io/badge/Download-APK-blue
+<img src="https://img.shields.io/badge/Download-APK-blue" alt="Download here">
 
 How to Use
 
