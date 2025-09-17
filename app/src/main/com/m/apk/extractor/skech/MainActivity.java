@@ -32,7 +32,8 @@ import android.content.pm.PackageManager;
 import android.Manifest;
 import android.content.pm.ApplicationInfo;
 import com.m.apk.extractor.skech.helpers.toast.ToastHelper;
-import com.m.apk.extractor.skech.utils.soundPool.SoundPoolManager;
+import com.m.apk.extractor.skech.utils.soundPool.SoundPoolManager;
+
 
 public class MainActivity extends Activity {
 	
@@ -216,7 +217,7 @@ public class MainActivity extends Activity {
 				binding.buttonExtract.performClick();
 			} else {
 				// Permission denied.
-				Toast.makeText(this, "Permission denied. Cannot extract APK.", Toast.LENGTH_SHORT).show();
+				toastHelper.showToast("Permission denied. Cannot extract APK.");
 			}
 		}
 		
@@ -241,4 +242,4 @@ public class MainActivity extends Activity {
 		
 	}
 	
-}
+}
