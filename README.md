@@ -22,6 +22,8 @@ A simple, open source, and lightweight Android application to extract APK files 
 
 <img src="https://img.shields.io/badge/Download-APK-blue" alt="Download here">
 
+https://github.com/Yuna-ux/Apk-Extractor/releases/tag/v1.4.0
+
 How to Use
 
 1. Enter the package name of the app you want to extract
